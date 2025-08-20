@@ -3,16 +3,19 @@
  * Plugin Name: W3P Admin Login
  * Plugin URI: https://getbutterfly.com/wordpress-plugins/w3p-admin-login/
  * Description: Change /wp-admin/ login to whatever you want (e.g. example.com/my-login). Go under Settings and then click on "Permalinks" and change your URL under "W3P Admin Login".
- * Version: 1.0.3
+ * Version: 1.1.0
  * Requires PHP: 7.2
  * Requires CP: 2.0
  * Author: Ciprian Popescu
  * Author URI: https://getbutterfly.com/
+ * GitHub Plugin URI: wolffe/w3p-admin-login
+ * Primary Branch: master
  * License: GNU General Public License v3 or later
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  *
- * Copyright 2024  Ciprian Popescu (email: getbutterfly@gmail.com)
+ * Copyright 2024-2025  Ciprian Popescu (email: getbutterfly@gmail.com)
  * Copyright 2023  Saad lqbal (email: saad@objects.ws)
+ *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 2 of the License, or

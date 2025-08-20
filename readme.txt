@@ -2,8 +2,8 @@
 Tags: login, admin, wp-login, custom login
 Contributors: butterflymedia
 Requires at least: 4.9
-Tested up to: 6.6.2
-Stable tag: 1.0.3
+Tested up to: 6.8.2
+Stable tag: 1.1.0
 License: GNU General Public License v3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -43,6 +43,10 @@ Accessing the wp-login.php page or the `/wp-admin/` directory without logging in
 5. You can change this anytime; just go back to Settings > Permalinks > W3P Admin Login.
 
 == Changelog ==
+
+= 1.1.0 =
+* Add Git Updater support
+* Update WordPress compatibility
 
 = 1.0.3 =
 * Fix missing "Settings" link
